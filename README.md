@@ -6,6 +6,10 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=titswort&repo=know-its-off&show_icons=true&theme=midnight-purple" />
 </a>
 <br>
+<a href="https://github.com/titswort/ai-character-generator">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=titswort&repo=ai-character-generator&show_icons=true&theme=midnight-purple" />
+</a>
+<br>
 <a href="https://github.com/titswort/zombie-animator">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=titswort&repo=zombie-animator&show_icons=true&theme=midnight-purple" />
 </a>
